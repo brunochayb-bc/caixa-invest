@@ -1,0 +1,5 @@
+{
+  "name": "CAIXA InvestInfo",
+  "description": "Portal de notícias e informações financeiras da CAIXA, com cotações em tempo real, análises e gestão de fundos.",
+  "requestFramePermissions": []
+}
